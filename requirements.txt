@@ -1,6 +1,7 @@
+aiolimiter
 aiohttp
 asyncio
 BeautifulSoup4
 pyperclip
-AsyncLimiter
 cachetools
+lxml
