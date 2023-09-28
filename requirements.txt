@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+BeautifulSoup4
+pyperclip
+AsyncLimiter
+cachetools
